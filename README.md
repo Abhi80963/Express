@@ -1,5 +1,3 @@
-
-```markdown
 # Express News App with Authentication
 
 A simple news app built with **Jetpack Compose** that allows users to browse, search for news, and view detailed articles. It includes a login/signup authentication system.
@@ -52,4 +50,3 @@ NEWS_API_KEY=your_api_key_here
 
 ## License
 This project is licensed under the MIT License.
-```
