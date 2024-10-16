@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677986763731",
+    "project_id": "express-news-a48e6",
+    "storage_bucket": "express-news-a48e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677986763731:android:19b5664cfd09b00c496526",
+        "android_client_info": {
+          "package_name": "com.example.express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLeYebvhlXZfqNAHIaCxLlu0bjklau3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
