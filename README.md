@@ -56,7 +56,7 @@ app/
 ### Setup
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/news-app-with-auth.git
+git clone [https://github.com/Abhi80963/Express.git]
 ```
 2. Add your API key in `local.properties`:
 ```plaintext
@@ -65,7 +65,7 @@ NEWS_API_KEY=your_api_key_here
 3. Sync and run the app in Android Studio.
 
 ## Future Improvements
-- User profiles
+- User profiles with side navigation bar
 - Favorites
 - Push notifications
 
