@@ -32,6 +32,21 @@ app/
 - Kotlin 1.9.0
 - API key from [NewsAPI](https://newsapi.org/)
 
+## App Demo
+-Light Mode
+
+![Screenshot_20241016_220547](https://github.com/user-attachments/assets/c71d4519-08d7-45a8-a14e-900f0af416a5)![Screenshot_20241016_220653](https://github.com/user-attachments/assets/6083f1a2-5fff-4006-bc4b-c7f61c032520)
+![Screenshot_20241016_220743](https://github.com/user-attachments/assets/c3c98a24-518d-4649-b6b1-1d82cb329a2a)
+
+![Screenshot_20241016_220815](https://github.com/user-attachments/assets/2b73599b-65b8-4fbc-87b2-cf33e26df44b)
+
+-Dark Mode
+![Screenshot_20241016_221055](https://github.com/user-attachments/assets/5fe0751b-c388-4b2b-a12d-f69dc53de1e2)
+![Screenshot_20241016_221040](https://github.com/user-attachments/assets/d2619900-cc3c-438d-8711-686b9a59a0c1)
+![Screenshot_20241016_221029](https://github.com/user-attachments/assets/c96cf8ce-2646-4ecd-a5ef-e7790781ba25)
+
+
+
 ### Setup
 1. Clone the repo:
 ```bash
